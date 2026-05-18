@@ -108,4 +108,58 @@ The purpose of this image classification model is to assist in the accurate and 
 - Aids digestion
 - May help lower blood sugar levels
 
-**Cayenne**
+---
+
+### 3. Cayenne
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d0c9af11-8e57-4cd0-a35a-dc841ac2cf41" alt="Cayenne" width="400">
+</div>
+
+#### Description & Specifications
+
+**Scientific Name:** *Capsicum annuum* var. *acuminatum*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Cayenne Pepper, Red Pepper, Guinea Spice
+
+**Physical Characteristics:**
+- **Height:** Bushy plant, typically 2-5 feet (60-150 cm) tall
+- **Fruit Shape:** Long, thin, cylindrical pod with tapered tip
+- **Fruit Size:** 4-10 inches (10-25 cm) in length, 0.5 inches (1.3 cm) in diameter
+- **Colors:** Green (unripe), Bright Red (fully ripe), sometimes yellow or orange
+- **Texture:** Smooth, wrinkled when dried, thin-walled
+- **Heat Level:** Very hot and spicy (30,000-50,000 Scoville Heat Units)
+- **Seeds:** Numerous small seeds with high capsaicin concentration
+
+**Growing Conditions:**
+- **Climate:** Tropical and subtropical regions, long growing season required
+- **Soil Type:** Well-drained, fertile soil with pH 6.0-6.8
+- **Water:** Moderate watering, prefers drier conditions than other peppers
+- **Sunlight:** Full sun (8+ hours daily)
+- **Temperature:** Optimal growth at 75-95°F (24-35°C)
+- **Maturity:** 90-120 days from planting to first harvest
+
+**Nutritional Value:**
+- Extremely high in capsaicin (active heat compound)
+- Rich in Vitamin C and antioxidants
+- Contains vitamins A, B6, and E
+- Very low in calories (approximately 40 calories per 100g fresh)
+- Often used in dried or powdered form
+
+**Uses:**
+- Culinary: Hot sauce, spice blends, curries, Asian and Latin American cuisine
+- Medicinal: Pain management, metabolism boost, circulatory support
+- Traditional Medicine: Used for digestive issues and inflammation
+- Supplement: Capsaicin-rich supplement for weight management
+- Condiment: Dried powder, flakes, or whole peppers
+
+**Health Benefits:**
+- Powerful metabolism booster and fat burner
+- Pain relief and anti-inflammatory properties
+- Improves blood circulation and cardiovascular health
+- Supports digestion and gut health
+- May help reduce blood pressure
+- Antioxidant and antimicrobial properties
+- Aids in appetite suppression
