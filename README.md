@@ -404,3 +404,30 @@ The purpose of this image classification model is to assist in the accurate and 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/42c26e38-9d9d-4002-bd21-b70b7d855d95" alt="Bhut Jolokia Chilli" width="400">
 </div>
+## Bhut Jolokia (Ghost Pepper)
+
+### Overview
+- **Origin**: Northeast India (Assam, Nagaland, Manipur)
+- **Scientific name**: *Capsicum chinense* × *Capsicum frutescens*
+- **Common names**: Ghost Pepper, Bhut Jolokia, Naga Jolokia, Bih Jolokia
+
+### Heat Level
+- **Scoville Heat Units (SHU)**: ~800,000 – 1,041,427 SHU
+- **Ranking**: Once held the Guinness World Record as the world's hottest chili pepper (2007–2011), later surpassed by the Trinidad Scorpion Butch T and Carolina Reaper.
+
+### Physical Characteristics
+- **Color**: Typically ripens from green to vibrant red (or orange/yellow in some variants)
+- **Shape**: Wrinkled, elongated pods, roughly 5–8 cm long
+- **Skin**: Thin and bumpy texture
+- **Flavor**: Fruity, slightly sweet undertone beneath the intense heat
+
+### Uses
+- **Culinary**: Used sparingly in curries, pickles, hot sauces, and spice blends
+- **Military/Police**: Used in pepper sprays and smoke grenades in India
+- **Medicinal**: Traditional remedies for stomach ailments and summer cooling (via perspiration)
+
+### Cultivation
+- Thrives in hot, humid climates
+- Requires well-drained soil and full sunlight
+- Harvested typically 150–180 days after planting
+
