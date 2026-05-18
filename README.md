@@ -1,4 +1,3 @@
-<img width="832" height="832" alt="Bellpepper" src="https://github.com/user-attachments/assets/067956a7-4a73-47af-abda-170d724400b5" />
 # Plant-Species-Image-Classification
 
 A. Project Overview
@@ -10,3 +9,6 @@ The purpose of this image classification model is to assist in the accurate and 
 B. Plant Species Section
 
 1.Bell Pepper
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/067956a7-4a73-47af-abda-170d724400b5" alt="Bell Pepper" width="300">
+</div>
