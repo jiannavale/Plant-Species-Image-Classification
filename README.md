@@ -649,9 +649,8 @@ The purpose of this image classification model is to assist in the accurate and 
 - **Cultivation:** Requires warm climate and long growing season; plants are heavy producers when mature
 
 ## 11. Trinidad Scorpion
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b87e2c0a-6c94-42c6-9d3b-8c11f38454d7" alt="Trinidad Scorpion Butch T Pepper" width="400">
+  <img src="https://github.com/user-attachments/assets/1d2af19d-bf8a-4123-8a4e-9272f3e5e8fe" alt="Trinidad Scorpion Butch T Pepper" width="400">
 </div>
 
 ### Description & Specifications
