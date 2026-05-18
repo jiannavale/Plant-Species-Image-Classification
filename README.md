@@ -163,3 +163,59 @@ The purpose of this image classification model is to assist in the accurate and 
 - May help reduce blood pressure
 - Antioxidant and antimicrobial properties
 - Aids in appetite suppression
+
+---
+
+### 4. Banana Pepper
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3d233fd6-8b62-49b0-9999-d1da1bacb67e" alt="Banana Pepper" width="400">
+</div>
+
+#### Description & Specifications
+
+**Scientific Name:** *Capsicum annuum* var. *longum*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Banana Pepper, Yellow Wax Pepper, Banana Chile
+
+**Physical Characteristics:**
+- **Height:** Bushy plant, typically 1.5-3 feet (45-90 cm) tall
+- **Fruit Shape:** Long, slender, curved or slightly twisted pod
+- **Fruit Size:** 4-8 inches (10-20 cm) in length
+- **Colors:** Pale Yellow (unripe), Golden Yellow or Orange-Red (ripe)
+- **Texture:** Smooth, waxy exterior, thin-walled
+- **Shape:** Resembles a banana (hence the name)
+- **Heat Level:** Mild to moderate heat (0-500 Scoville Heat Units) - mostly sweet
+- **Seeds:** Small seeds with minimal heat concentration
+
+**Growing Conditions:**
+- **Climate:** Warm regions with moderate to long growing season
+- **Soil Type:** Well-drained, fertile soil with pH 6.0-6.8
+- **Water:** Regular watering, moderate moisture levels
+- **Sunlight:** Full sun (6-8 hours daily)
+- **Temperature:** Optimal growth at 70-85°F (21-29°C)
+- **Maturity:** 60-90 days from planting to harvest
+
+**Nutritional Value:**
+- Good source of Vitamin C
+- Rich in antioxidants and phytonutrients
+- Contains vitamins A, B6, and potassium
+- Low in calories (approximately 27 calories per 100g)
+- Minimal capsaicin (very mild)
+
+**Uses:**
+- Culinary: Raw in salads, grilling, roasting, pickling, frying
+- Condiment: Banana pepper rings as topping for sandwiches and pizza
+- Preservation: Pickled banana peppers for long-term storage
+- Stuffing: Often stuffed with cheese or meat for cooking
+
+**Health Benefits:**
+- Supports immune system health
+- Good source of vitamins and minerals
+- Aids in blood sugar management
+- Supports bone health
+- Anti-inflammatory properties
+- Promotes heart health
+- Suitable for sensitive palates (mild heat)
