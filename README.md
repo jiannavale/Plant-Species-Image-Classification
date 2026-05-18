@@ -1057,3 +1057,87 @@ The purpose of this image classification model is to assist in the accurate and 
 - **Cousin to Habanero:** Closely related to the habanero pepper with similar heat levels but distinct fruity flavor profile
 - **Caution:** Handle with care — wear gloves and avoid contact with eyes and sensitive skin
 - **Cultivation:** Thrives in hot, humid climates; requires long growing season; plants are heavy producers when mature
+
+## 16. Wasabi
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/980c6b6e-df45-410b-857e-46b108e53431" alt="Wasabi" width="400">
+</div>
+
+### Description & Specifications
+
+**Scientific Name:** *Eutrema japonicum* (formerly *Wasabia japonica*)
+
+**Family:** Brassicaceae (Mustard family)
+
+**Common Names:** Wasabi, Japanese Horseradish, Sawa Wasabi, Yama Wasabi
+
+---
+
+### Physical Characteristics:
+
+- **Height:** Herbaceous perennial plant, typically 1–2 feet (30–60 cm) tall
+- **Root/Rhizome Shape:** Thick, knobby, cylindrical rhizome growing horizontally
+- **Root/Rhizome Size:** 4–8 inches (10–20 cm) in length, 0.75–1.5 inches (2–4 cm) in diameter
+- **Leaf Shape:** Large, round to heart-shaped leaves on long petioles
+- **Leaf Size:** 6–12 inches (15–30 cm) in diameter
+- **Color:** Deep green leaves; pale green to brownish-green rhizome
+- **Texture:** Smooth, firm rhizome with rough, fibrous outer skin
+- **Flowers:** Small, white, four-petaled flowers on elongated stalks
+
+---
+
+### Growing Conditions:
+
+- **Climate:** Cool, temperate regions with high humidity
+- **Soil Type:** Moist, well-drained, gravelly or rocky soil with high organic matter; pH 6.0–6.5
+- **Water:** Constant flowing water or very high moisture levels; cannot tolerate drought
+- **Sunlight:** Partial to full shade (simulates natural mountain stream environment)
+- **Temperature:** Optimal growth at 45–70°F (7–21°C)
+- **Maturity:** 18–24 months from planting to harvest for rhizomes
+
+---
+
+### Heat & Flavor Profile:
+
+- **Heat Level:** Intense, sharp, and pungent — different from chili pepper heat
+- **Heat Mechanism:** Contains allyl isothiocyanate (AITC) instead of capsaicin; activates nasal passages rather than tongue
+- **Flavor:** Fresh, green, herbal, with a sharp, sinus-clearing heat that dissipates quickly
+- **Duration:** Heat is intense but short-lived compared to chili peppers
+
+---
+
+### Nutritional Value:
+
+- High in Vitamin C and dietary fiber
+- Contains isothiocyanates (anti-cancer compounds)
+- Rich in minerals including calcium, potassium, and magnesium
+- Low in calories
+
+---
+
+### Uses:
+
+- **Culinary:** Essential in Japanese cuisine — traditionally grated fresh and served with sushi, sashimi, soba noodles, and grilled meats
+- **Condiment:** Used as a paste, powder, or in sauces and dressings
+- **Medicinal:** Traditional Japanese medicine for antibacterial, anti-inflammatory, and digestive properties
+
+---
+
+### Health Benefits:
+
+- Natural antibacterial properties
+- Anti-inflammatory effects
+- Contains compounds linked to cancer prevention
+- Supports respiratory health
+- Aids digestion
+
+---
+
+### Special Notes:
+
+- **Origin:** Native to Japan — grows naturally along mountain stream beds in shaded, cool environments
+- **Cultivation Difficulty:** Extremely difficult to cultivate; requires specific cool, wet, shaded conditions
+- **Imitation Wasabi:** Most "wasabi" outside Japan is actually horseradish dyed green with added mustard
+- **Grating Method:** Traditionally grated on a sharkskin grater (oroshigane) to release maximum flavor and heat
+- **Freshness:** True wasabi loses its pungency within 15–20 minutes after grating; best consumed immediately
