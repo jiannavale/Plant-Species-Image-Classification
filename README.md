@@ -893,3 +893,85 @@ The purpose of this image classification model is to assist in the accurate and 
 - **Name Origin:** "Primo" refers to creator Troy Primeaux; "Yellow" denotes the vibrant yellow color variant
 - **Caution:** Handle with extreme care — wear gloves, eye protection, and avoid contact with skin and mucous membranes
 - **Cultivation:** Requires warm climate and long growing season; plants are heavy producers when mature
+
+## 14. Pasilla Bajio
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cd25f610-6265-4d00-a01e-601fc814c543" alt="Pasilla Bajio Pepper" width="400">
+</div>
+
+### Description & Specifications
+
+**Scientific Name:** *Capsicum annuum*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Pasilla Bajio, Chile Negro, Chile Pasilla, Pasilla Pepper
+
+---
+
+### Physical Characteristics:
+
+- **Height:** Medium bushy plant, typically 2–3 feet (60–90 cm) tall
+- **Fruit Shape:** Long, slender, cylindrical pods with slight tapering at the tip
+- **Fruit Size:** 6–10 inches (15–25 cm) in length, 1–1.5 inches (2.5–3.8 cm) in diameter
+- **Colors:** Dark Green (unripe) → Deep Brown to Almost Black (ripe/dried)
+- **Texture:** Smooth, slightly wrinkled exterior when fresh; leathery and wrinkled when dried
+- **Flesh:** Medium-thick walls with a narrow interior cavity
+- **Seeds:** Small, flat, cream-colored seeds inside
+
+---
+
+### Growing Conditions:
+
+- **Climate:** Warm, temperate to subtropical regions
+- **Soil Type:** Well-drained, fertile soil with pH 6.0–7.0
+- **Water:** Regular watering, moderate moisture levels
+- **Sunlight:** Full sun (6–8 hours daily)
+- **Temperature:** Optimal growth at 70–85°F (21–29°C)
+- **Maturity:** 80–90 days from planting to harvest
+
+---
+
+### Heat & Flavor Profile:
+
+- **Scoville Heat Units (SHU):** 1,000 – 2,000 SHU
+- **Heat Level:** Mild to very mild
+- **Flavor:** Rich, earthy, smoky, with hints of dried fruit, berry, and licorice; deep and complex when dried
+
+---
+
+### Nutritional Value:
+
+- High in Vitamin C and Vitamin A
+- Rich in antioxidants and phytonutrients
+- Contains fiber, potassium, and iron
+- Low in calories
+
+---
+
+### Uses:
+
+- **Culinary:** Essential in Mexican cuisine — used in mole sauces, enchilada sauces, salsas, soups, stews, and chili powders
+- **Dried Form:** Dried pasilla peppers are rehydrated and blended into sauces or ground into powder
+- **Stuffed:** Fresh peppers can be roasted, peeled, and stuffed for chiles rellenos
+
+---
+
+### Health Benefits:
+
+- Supports immune system
+- Anti-inflammatory properties
+- Promotes eye health
+- Supports heart health
+- Aids in digestion
+
+---
+
+### Special Notes:
+
+- **Origin:** Mexico — one of the "Holy Trinity" of Mexican chiles (along with ancho and mulato)
+- **Name Meaning:** "Pasilla" means "little raisin" in Spanish, referring to its dark color and wrinkled appearance when dried; "Bajio" refers to the central Mexican region where it is cultivated
+- **Dual Identity:** Fresh green form is sometimes called "Chilaca"; dried brown/black form is "Pasilla"
+- **Cultivation:** Highly productive plants; peppers are typically allowed to fully ripen and dry for traditional pasilla use
+- **Storage:** Dried pasilla peppers can be stored for months in a cool, dry place
