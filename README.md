@@ -1223,3 +1223,85 @@ The purpose of this image classification model is to assist in the accurate and 
 - **Novelty Appeal:** One of the most famous novelty peppers grown worldwide for its humorous appearance
 - **Cultivation:** Easy to grow; highly productive plants with abundant yields of distinctive pods
 - **Caution:** Handle with care — wear gloves when cutting to avoid skin irritation from seeds and oils
+
+## 18. Mad Hatter
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cbd600a4-63b3-455b-a41d-96b3b3b1dcb6" alt="Mad Hatter" width="400">
+</div>
+
+### Description & Specifications
+
+**Scientific Name:** *Capsicum baccatum*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Mad Hatter Pepper, Bishop's Crown Pepper, Christmas Bell Pepper, Joker's Hat Pepper
+
+---
+
+### Physical Characteristics:
+
+- **Height:** Medium to tall bushy plant, typically 3–4 feet (90–120 cm) tall
+- **Fruit Shape:** Distinctive three-lobed, flying saucer or hat-shaped pods with a deep indentation in the center
+- **Fruit Size:** 2–3 inches (5–7.5 cm) in diameter, 1–1.5 inches (2.5–3.8 cm) in depth
+- **Colors:** Green (unripe) → Bright Red (ripe)
+- **Texture:** Smooth, glossy, slightly waxy exterior
+- **Flesh:** Thick, crisp walls with a broad, hollow interior cavity
+- **Seeds:** Small, flat, cream-colored seeds inside
+
+---
+
+### Growing Conditions:
+
+- **Climate:** Warm, temperate to subtropical regions
+- **Soil Type:** Well-drained, fertile soil with pH 6.0–6.8
+- **Water:** Regular watering, moderate moisture levels
+- **Sunlight:** Full sun (6–8 hours daily)
+- **Temperature:** Optimal growth at 70–85°F (21–29°C)
+- **Maturity:** 70–90 days from planting to harvest
+
+---
+
+### Heat & Flavor Profile:
+
+- **Scoville Heat Units (SHU):** 500 – 1,000 SHU
+- **Heat Level:** Very Mild — mostly concentrated in the seeds and placenta
+- **Flavor:** Sweet, fruity, slightly citrusy with a crisp, juicy texture; minimal heat in the flesh
+
+---
+
+### Nutritional Value:
+
+- High in Vitamin C and Vitamin A
+- Rich in antioxidants and phytonutrients
+- Contains fiber, potassium, and folate
+- Low in calories
+
+---
+
+### Uses:
+
+- **Culinary:** Excellent for fresh eating, salads, stuffing, pickling, and ornamental dishes
+- **Stuffed:** Ideal for stuffing due to broad, hollow cavity and thick walls
+- **Ornamental:** Highly popular as a decorative garden plant due to unique hat-like shape
+
+---
+
+### Health Benefits:
+
+- Supports immune system
+- Anti-inflammatory properties
+- Promotes eye health
+- Supports heart health
+- Aids in digestion
+
+---
+
+### Special Notes:
+
+- **Origin:** Developed in the United States; an All-America Selections (AAS) winner
+- **Name Origin:** Named for its resemblance to the hat worn by the Mad Hatter in "Alice in Wonderland"
+- **Species:** *Capsicum baccatum* — different species from common bell and chili peppers
+- **Heat Distribution:** Most heat is concentrated in the seeds and central placenta; the lobes are very mild and sweet
+- **Cultivation:** Highly productive plants; peppers are typically harvested when fully red for maximum sweetness
