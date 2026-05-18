@@ -9,6 +9,3 @@ The purpose of this image classification model is to assist in the accurate and 
 B. Plant Species Section
 
 1.Bell Pepper
-<div align="center">
-  <img src="./Bellpepper.webp" alt="Bell Pepper" width="400">
-</div>
