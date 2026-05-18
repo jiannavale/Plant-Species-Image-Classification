@@ -811,3 +811,85 @@ The purpose of this image classification model is to assist in the accurate and 
 - **Name Meaning:** "Ancho" means "wide" in Spanish, referring to its broad, flat shape
 - **Cultivation:** Highly productive plants; peppers are typically harvested green for fresh use or allowed to ripen and dry for ancho use
 - **Storage:** Dried ancho peppers can be stored for months in a cool, dry place
+
+## 13. Yellow-7 Pot Primo
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/48d3fba9-8122-4d36-a0f8-390603ae7681" alt="Yellow 7 Pot Primo" width="400">
+</div>
+
+### Description & Specifications
+
+**Scientific Name:** *Capsicum chinense*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Yellow 7 Pot Primo, 7 Pot Primo Yellow, Primo Pepper
+
+---
+
+### Physical Characteristics:
+
+- **Height:** Medium to tall bushy plant, typically 3–4 feet (90–120 cm) tall
+- **Fruit Shape:** Distinctive bumpy, irregular pods with a prominent pointed tail
+- **Fruit Size:** 1.5–2.5 inches (3.8–6.5 cm) in length, 1–1.5 inches (2.5–3.8 cm) in diameter
+- **Colors:** Green (unripe) → Bright Yellow (ripe)
+- **Texture:** Extremely rough, deeply pockmarked and wrinkled skin
+- **Flesh:** Thin walls with hollow interior
+- **Seeds:** Small, flat, cream-colored seeds inside
+
+---
+
+### Growing Conditions:
+
+- **Climate:** Warm, tropical to subtropical regions
+- **Soil Type:** Well-drained, fertile soil with pH 6.0–6.8
+- **Water:** Regular watering, moderate moisture levels (avoid waterlogging)
+- **Sunlight:** Full sun (6–8 hours daily)
+- **Temperature:** Optimal growth at 75–90°F (24–32°C)
+- **Maturity:** 90–120 days from planting to harvest
+
+---
+
+### Heat & Flavor Profile:
+
+- **Scoville Heat Units (SHU):** 1,000,000 – 1,500,000+ SHU
+- **Heat Level:** Extreme — among the world's hottest peppers
+- **Flavor:** Fruity, citrusy, slightly sweet with an intense, immediate, and prolonged heat
+
+---
+
+### Nutritional Value:
+
+- High in Vitamin C
+- Rich in capsaicin (active heat compound)
+- Contains Vitamin A, folate, and fiber
+- Low in calories
+
+---
+
+### Uses:
+
+- **Culinary:** Used extremely sparingly in hot sauces, chili powders, spice blends, and extreme food challenges
+- **Competitive:** Popular in pepper-eating contests and heat challenges
+- **Medicinal:** Capsaicin extracted for topical pain relief treatments
+
+---
+
+### Health Benefits:
+
+- Boosts metabolism
+- Anti-inflammatory properties
+- Pain relief (capsaicin-based topical treatments)
+- Supports cardiovascular health
+- Promotes endorphin release
+
+---
+
+### Special Notes:
+
+- **Origin:** Louisiana, USA — developed by Troy Primeaux (nickname "Primo")
+- **7 Pot Legacy:** Part of the 7 Pot family from Trinidad; legend says one pepper is hot enough to spice seven pots of stew
+- **Name Origin:** "Primo" refers to creator Troy Primeaux; "Yellow" denotes the vibrant yellow color variant
+- **Caution:** Handle with extreme care — wear gloves, eye protection, and avoid contact with skin and mucous membranes
+- **Cultivation:** Requires warm climate and long growing season; plants are heavy producers when mature
