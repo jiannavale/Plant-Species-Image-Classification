@@ -1,3 +1,4 @@
+<img width="832" height="832" alt="Bellpepper" src="https://github.com/user-attachments/assets/067956a7-4a73-47af-abda-170d724400b5" />
 # Plant-Species-Image-Classification
 
 A. Project Overview
