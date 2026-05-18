@@ -1305,3 +1305,85 @@ The purpose of this image classification model is to assist in the accurate and 
 - **Species:** *Capsicum baccatum* — different species from common bell and chili peppers
 - **Heat Distribution:** Most heat is concentrated in the seeds and central placenta; the lobes are very mild and sweet
 - **Cultivation:** Highly productive plants; peppers are typically harvested when fully red for maximum sweetness
+
+## 19. Death Spiral
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2eb09edf-4b58-4bbc-97d9-dc47cb8555bc" alt="Death Spiral Pepper" width="400">
+</div>
+
+### Description & Specifications
+
+**Scientific Name:** *Capsicum chinense*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Death Spiral, Death Spiral Pepper, Gator Jigsaw
+
+---
+
+### Physical Characteristics:
+
+- **Height:** Medium to tall bushy plant, typically 3–4 feet (90–120 cm) tall
+- **Fruit Shape:** Distinctive elongated, twisted, spiral-shaped pods with a pointed tail
+- **Fruit Size:** 2–3 inches (5–7.5 cm) in length, 0.75–1 inch (2–2.5 cm) in diameter
+- **Colors:** Green (unripe) → Peach/Orange → Red (ripe)
+- **Texture:** Extremely rough, deeply pockmarked, wrinkled, and bumpy skin
+- **Flesh:** Thin walls with hollow interior
+- **Seeds:** Small, flat, cream-colored seeds inside
+
+---
+
+### Growing Conditions:
+
+- **Climate:** Warm, tropical to subtropical regions
+- **Soil Type:** Well-drained, fertile soil with pH 6.0–6.8
+- **Water:** Regular watering, moderate moisture levels (avoid waterlogging)
+- **Sunlight:** Full sun (6–8 hours daily)
+- **Temperature:** Optimal growth at 75–90°F (24–32°C)
+- **Maturity:** 90–120 days from planting to harvest
+
+---
+
+### Heat & Flavor Profile:
+
+- **Scoville Heat Units (SHU):** 1,300,000 – 1,500,000+ SHU
+- **Heat Level:** Extreme — among the world's hottest peppers
+- **Flavor:** Fruity, slightly sweet, citrusy with an intense, immediate, and prolonged heat
+
+---
+
+### Nutritional Value:
+
+- High in Vitamin C
+- Rich in capsaicin (active heat compound)
+- Contains Vitamin A, folate, and fiber
+- Low in calories
+
+---
+
+### Uses:
+
+- **Culinary:** Used extremely sparingly in hot sauces, chili powders, spice blends, and extreme food challenges
+- **Competitive:** Popular in pepper-eating contests and heat challenges
+- **Medicinal:** Capsaicin extracted for topical pain relief treatments
+
+---
+
+### Health Benefits:
+
+- Boosts metabolism
+- Anti-inflammatory properties
+- Pain relief (capsaicin-based topical treatments)
+- Supports cardiovascular health
+- Promotes endorphin release
+
+---
+
+### Special Notes:
+
+- **Origin:** United States — a relatively new hybrid variety developed by pepper enthusiasts
+- **Name Origin:** Named for its twisted, spiral shape and extreme heat level that can feel like a "death spiral"
+- **Genetics:** Believed to be a cross between the Naga Morich and Trinidad Scorpion varieties
+- **Caution:** Handle with extreme care — wear gloves, eye protection, and avoid contact with skin and mucous membranes
+- **Cultivation:** Requires warm climate and long growing season; plants are heavy producers when mature
