@@ -337,3 +337,65 @@ The purpose of this image classification model is to assist in the accurate and 
 - May help reduce blood pressure and cholesterol
 - High antioxidant content combats free radicals
 - Traditional use for treating infections and inflammation
+
+---
+
+### 7. Byadagi Chilli
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aeba1279-cb34-48fb-b28c-2fe6d234da86" alt="Byadagi Chilli" width="400">
+</div>
+
+#### Description & Specifications
+
+**Scientific Name:** *Capsicum annuum*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Byadagi Chilli, Byadgi Chilli, Karnataka Chilli
+
+**Physical Characteristics:**
+- **Height:** Bushy plant, typically 2-3 feet (60-90 cm) tall
+- **Fruit Shape:** Long, cylindrical pod with blunt end
+- **Fruit Size:** 4-6 inches (10-15 cm) in length
+- **Colors:** Green (unripe), Deep Red to Maroon (fully ripe)
+- **Texture:** Smooth, slightly wrinkled when mature
+- **Walls:** Medium thickness, contains numerous seeds
+- **Heat Level:** Mild to moderate heat (2,000-10,000 Scoville Heat Units)
+- **Seeds:** Numerous small seeds with mild capsaicin concentration
+
+**Growing Conditions:**
+- **Climate:** Warm, subtropical regions; originally from Karnataka, India
+- **Soil Type:** Well-drained, fertile soil with pH 6.0-7.0
+- **Water:** Moderate to regular watering during growing season
+- **Sunlight:** Full sun (8+ hours daily)
+- **Temperature:** Optimal growth at 75-85°F (24-29°C)
+- **Maturity:** 90-120 days from planting to first harvest
+
+**Nutritional Value:**
+- Rich in Vitamin C and antioxidants
+- Contains carotenoids for deep red color (paprika-like)
+- Good source of vitamins A, B, and E
+- Low in calories (approximately 40 calories per 100g)
+- Contains aromatic flavor compounds
+- Often dried and ground for condiments and coloring
+
+**Uses:**
+- Culinary: Indian cuisine, curries, spice blends, condiments
+- Spice Industry: Used to produce Kashmiri chilli powder and paprika
+- Condiment: Dried and ground for flavoring dishes
+- Color Addition: Natural colorant in food products
+- Traditional Medicine: Used in Ayurvedic preparations
+- Hot Sauce: Component of Indian hot sauces and pastes
+
+**Health Benefits:**
+- Rich in antioxidants and carotenoids for eye health
+- Anti-inflammatory properties support joint health
+- Boosts immune system with high Vitamin C content
+- Aids digestion and improves gut health
+- Supports cardiovascular health and blood circulation
+- May help reduce blood pressure
+- Mild heat makes it suitable for sensitive digestive systems
+- Contains quercetin for allergic response reduction
+- Antimicrobial and antiseptic properties
+- Traditional use in treating rheumatism and arthritis
