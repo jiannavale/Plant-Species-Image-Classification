@@ -400,6 +400,7 @@ The purpose of this image classification model is to assist in the accurate and 
 - Antimicrobial and antiseptic properties
 - Traditional use in treating rheumatism and arthritis
 
+**8.But Jolokia**
 <div align="center">
   <img src="https://github.com/user-attachments/assets/42c26e38-9d9d-4002-bd21-b70b7d855d95" alt="Bhut Jolokia Chilli" width="400">
 </div>
