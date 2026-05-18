@@ -57,3 +57,4 @@ The purpose of this image classification model is to assist in the accurate and 
 - Anti-inflammatory properties
 - Promotes eye health
 
+**Jalapeno**
