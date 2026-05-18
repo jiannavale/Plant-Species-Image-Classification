@@ -433,3 +433,89 @@ The purpose of this image classification model is to assist in the accurate and 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ebe61a55-f535-4f00-8dcc-993a2bbd69a2" alt="il_794xN" width="400">
 </div>
+Here's a detailed description/specification for **Himo Togarashi** in the same format as the Bell Pepper example:
+
+---
+
+## 2. Himo Togarashi
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ebe61a55-f535-4f00-8dcc-993a2bbd69a2" alt="Himo Togarashi" width="400">
+</div>
+
+### Description & Specifications
+
+**Scientific Name:** *Capsicum annuum*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Himo Togarashi, Japanese String Pepper, Japanese Heirloom Pepper
+
+---
+
+### Physical Characteristics:
+
+- **Height:** Compact bushy plant, 18–36 inches (45–90 cm) tall
+- **Fruit Shape:** Long, slender, string-like pods that hang downward from stems
+- **Fruit Size:** 4–6 inches (10–15 cm) in length, ~0.25 inches (0.6 cm) in diameter
+- **Colors:** Green (unripe) → Red (ripe)
+- **Texture:** Slightly bumpy, thin-skinned exterior
+- **Flesh:** Thin walls with minimal interior cavity
+- **Seeds:** Small, cream-colored seeds inside
+
+---
+
+### Growing Conditions:
+
+- **Climate:** Warm, temperate to subtropical regions
+- **Soil Type:** Well-drained, fertile soil with pH 6.0–6.8
+- **Water:** Regular watering, moderate moisture levels
+- **Sunlight:** Full sun (6–8 hours daily)
+- **Temperature:** Optimal growth at 70–85°F (21–29°C)
+- **Maturity:** 80–90 days from planting to harvest
+
+---
+
+### Heat & Flavor Profile:
+
+- **Scoville Heat Units (SHU):** 0–500+ SHU (Mild to Sweet)
+- **Heat Level:** Very mild to no heat
+- **Flavor:** Fruity, slightly sweet, with subtle bitter undertones when green
+
+---
+
+### Nutritional Value:
+
+- High in Vitamin C (especially red peppers)
+- Rich in antioxidants and phytonutrients
+- Contains Vitamin A, folate, and fiber
+- Low in calories
+
+---
+
+### Uses:
+
+- **Culinary:** Traditional Japanese stir-fries, tempura, pickling, frying with salt, salads
+- **Ornamental:** Popular as a decorative garden plant due to string-like hanging appearance
+- **Medicinal:** Used in traditional remedies for digestion
+
+---
+
+### Health Benefits:
+
+- Supports immune system
+- Anti-inflammatory properties
+- Promotes eye health
+- Aids in weight management
+- Supports heart health
+
+---
+
+### Special Notes:
+
+- **"Himo"** (紐) means "string" or "cord" in Japanese — referring to how the peppers hang like strings from the plant
+- **Origin:** Japan — a traditional Japanese heirloom variety
+- **Species:** *Capsicum annuum*
+- Often used in the **green stage** for cooking; when ripened to red, sweetness increases with little flavor change
+- Frequently compared in appearance to Thai chilies, but with **zero to minimal heat**
+- Highly productive plants with heavy yields of decorative, dangling peppers
