@@ -10,5 +10,5 @@ B. Plant Species Section
 
 1.Bell Pepper
 <div align="center">
-  <img src="./images/bell-pepper.jpg" alt="Bell Pepper" width="400">
+  <img src="./Bellpepper.webp" alt="Bell Pepper" width="400">
 </div>
