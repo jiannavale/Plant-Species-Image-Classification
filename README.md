@@ -9,4 +9,4 @@ The purpose of this image classification model is to assist in the accurate and 
 B. Plant Species Section
 
 1.Bell Pepper
-![alt text](https://pindotlang.com/products/fresh-organic-red-bell-pepper-order-price-500-grams?srsltid=AfmBOoqQL1qQZA4KnFdvWepCCsHQIdUOobT6dnuhQTifLNYHIPMZWLkN)
+![Bell Pepper](https://pindotlang.com/products/fresh-organic-red-bell-pepper-order-price-500-grams?srsltid=AfmBOoqQL1qQZA4KnFdvWepCCsHQIdUOobT6dnuhQTifLNYHIPMZWLkN)
