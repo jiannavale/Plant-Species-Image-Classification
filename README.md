@@ -107,3 +107,5 @@ The purpose of this image classification model is to assist in the accurate and 
 - Supports cardiovascular health
 - Aids digestion
 - May help lower blood sugar levels
+
+**Cayenne**
