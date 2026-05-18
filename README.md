@@ -429,15 +429,7 @@ The purpose of this image classification model is to assist in the accurate and 
 - Requires well-drained soil and full sunlight
 - Harvested typically 150–180 days after planting
 
-**9.Himo Togarashi**
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ebe61a55-f535-4f00-8dcc-993a2bbd69a2" alt="il_794xN" width="400">
-</div>
-Here's a detailed description/specification for **Himo Togarashi** in the same format as the Bell Pepper example:
-
----
-
-## 2. Himo Togarashi
+## 9. Himo Togarashi
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ebe61a55-f535-4f00-8dcc-993a2bbd69a2" alt="Himo Togarashi" width="400">
