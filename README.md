@@ -1387,3 +1387,85 @@ The purpose of this image classification model is to assist in the accurate and 
 - **Genetics:** Believed to be a cross between the Naga Morich and Trinidad Scorpion varieties
 - **Caution:** Handle with extreme care — wear gloves, eye protection, and avoid contact with skin and mucous membranes
 - **Cultivation:** Requires warm climate and long growing season; plants are heavy producers when mature
+
+## 20. White Ghost Pepper
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/47908c1c-3398-4796-a8db-3cd7f12706a5" alt="White Ghost Pepper" width="400">
+</div>
+
+### Description & Specifications
+
+**Scientific Name:** *Capsicum chinense* × *Capsicum frutescens*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** White Ghost Pepper, White Bhut Jolokia, Albino Ghost Pepper
+
+---
+
+### Physical Characteristics:
+
+- **Height:** Tall bushy plant, typically 3–4 feet (90–120 cm) tall
+- **Fruit Shape:** Wrinkled, elongated, conical pods with pointed tips
+- **Fruit Size:** 2.5–3.5 inches (6–9 cm) in length, 1–1.2 inches (2.5–3 cm) in diameter
+- **Colors:** Light Green (unripe) → Creamy White (ripe)
+- **Texture:** Rough, deeply wrinkled (pockmarked) skin
+- **Flesh:** Thin walls with hollow interior
+- **Seeds:** Small, flat, cream-colored seeds inside
+
+---
+
+### Growing Conditions:
+
+- **Climate:** Warm, tropical to subtropical regions
+- **Soil Type:** Well-drained, fertile soil with pH 6.0–6.8
+- **Water:** Regular watering, moderate moisture levels (avoid waterlogging)
+- **Sunlight:** Full sun (6–8 hours daily)
+- **Temperature:** Optimal growth at 75–90°F (24–32°C)
+- **Maturity:** 100–120 days from planting to harvest
+
+---
+
+### Heat & Flavor Profile:
+
+- **Scoville Heat Units (SHU):** 800,000 – 1,000,000+ SHU
+- **Heat Level:** Extreme — one of the world's hottest peppers
+- **Flavor:** Fruity, slightly sweet, smoky undertone with a delayed, intense heat; slightly milder and more citrusy than the red variety
+
+---
+
+### Nutritional Value:
+
+- High in Vitamin C
+- Rich in capsaicin (active heat compound)
+- Contains Vitamin A, folate, and fiber
+- Low in calories
+
+---
+
+### Uses:
+
+- **Culinary:** Used sparingly in hot sauces, chili powders, spice blends, curries, and pickles
+- **Ornamental:** Highly prized for its unique creamy white color in gardens and decorative arrangements
+- **Medicinal:** Traditional remedies for stomach ailments and pain relief
+
+---
+
+### Health Benefits:
+
+- Boosts metabolism
+- Anti-inflammatory properties
+- Pain relief (capsaicin-based topical treatments)
+- Supports cardiovascular health
+- Promotes endorphin release
+
+---
+
+### Special Notes:
+
+- **Origin:** Northeast India (Assam, Nagaland, Manipur) — a rare color variant of the classic Bhut Jolokia
+- **Genetics:** A natural or selectively bred albino/white variant of the standard red Ghost Pepper
+- **Color Rarity:** The creamy white color is caused by a lack of anthocyanin pigments; fully ripens to a pale ivory or cream shade
+- **Caution:** Handle with extreme care — wear gloves, eye protection, and avoid contact with skin and mucous membranes
+- **Cultivation:** Requires warm climate and long growing season; plants are heavy producers when mature; seeds can be unstable and may revert to red
