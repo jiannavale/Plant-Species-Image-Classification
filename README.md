@@ -400,34 +400,88 @@ The purpose of this image classification model is to assist in the accurate and 
 - Antimicrobial and antiseptic properties
 - Traditional use in treating rheumatism and arthritis
 
-**8.But Jolokia**
+## 8. Bhut Jolokia (Ghost Pepper)
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/42c26e38-9d9d-4002-bd21-b70b7d855d95" alt="Bhut Jolokia Chilli" width="400">
+  <img src="https://github.com/user-attachments/assets/ebe61a55-f535-4f00-8dcc-993a2bbd69a2" alt="Bhut Jolokia Chilli" width="400">
 </div>
-### Overview
-- **Origin**: Northeast India (Assam, Nagaland, Manipur)
-- **Scientific name**: *Capsicum chinense* × *Capsicum frutescens*
-- **Common names**: Ghost Pepper, Bhut Jolokia, Naga Jolokia, Bih Jolokia
 
-### Heat Level
-- **Scoville Heat Units (SHU)**: ~800,000 – 1,041,427 SHU
-- **Ranking**: Once held the Guinness World Record as the world's hottest chili pepper (2007–2011), later surpassed by the Trinidad Scorpion Butch T and Carolina Reaper.
+### Description & Specifications
 
-### Physical Characteristics
-- **Color**: Typically ripens from green to vibrant red (or orange/yellow in some variants)
-- **Shape**: Wrinkled, elongated pods, roughly 5–8 cm long
-- **Skin**: Thin and bumpy texture
-- **Flavor**: Fruity, slightly sweet undertone beneath the intense heat
+**Scientific Name:** *Capsicum chinense* × *Capsicum frutescens*
 
-### Uses
-- **Culinary**: Used sparingly in curries, pickles, hot sauces, and spice blends
-- **Military/Police**: Used in pepper sprays and smoke grenades in India
-- **Medicinal**: Traditional remedies for stomach ailments and summer cooling (via perspiration)
+**Family:** Solanaceae (Nightshade family)
 
-### Cultivation
-- Thrives in hot, humid climates
-- Requires well-drained soil and full sunlight
-- Harvested typically 150–180 days after planting
+**Common Names:** Ghost Pepper, Bhut Jolokia, Naga Jolokia, Bih Jolokia
+
+---
+
+### Physical Characteristics:
+
+- **Height:** Tall bushy plant, typically 3–4 feet (90–120 cm) tall
+- **Fruit Shape:** Wrinkled, elongated, conical pods with pointed tips
+- **Fruit Size:** 2.5–3.5 inches (6–9 cm) in length, 1–1.2 inches (2.5–3 cm) in diameter
+- **Colors:** Green (unripe) → Orange → Bright Red (ripe)
+- **Texture:** Rough, deeply wrinkled (pockmarked) skin
+- **Flesh:** Thin walls with hollow interior
+- **Seeds:** Small, flat, cream-colored seeds inside
+
+---
+
+### Growing Conditions:
+
+- **Climate:** Warm, tropical to subtropical regions
+- **Soil Type:** Well-drained, fertile soil with pH 6.0–6.8
+- **Water:** Regular watering, moderate moisture levels (avoid waterlogging)
+- **Sunlight:** Full sun (6–8 hours daily)
+- **Temperature:** Optimal growth at 75–90°F (24–32°C)
+- **Maturity:** 100–120 days from planting to harvest
+
+---
+
+### Heat & Flavor Profile:
+
+- **Scoville Heat Units (SHU):** 800,000 – 1,041,427 SHU
+- **Heat Level:** Extreme — one of the world's hottest peppers
+- **Flavor:** Fruity, slightly sweet, smoky undertone with delayed, intense heat
+
+---
+
+### Nutritional Value:
+
+- High in Vitamin C
+- Rich in capsaicin (active heat compound)
+- Contains Vitamin A, folate, and fiber
+- Low in calories (approximately 40 calories per 100g)
+
+---
+
+### Uses:
+
+- **Culinary:** Used sparingly in curries, hot sauces, pickles, spice blends, and chili powders
+- **Military/Police:** Used in pepper sprays and smoke grenades in India
+- **Medicinal:** Traditional remedies for stomach ailments and pain relief
+
+---
+
+### Health Benefits:
+
+- Boosts metabolism
+- Anti-inflammatory properties
+- Pain relief (capsaicin-based topical treatments)
+- Supports cardiovascular health
+- Promotes digestion
+
+---
+
+### Special Notes:
+
+- **Origin:** Northeast India (Assam, Nagaland, Manipur)
+- **Record Holder:** Guinness World Record — World's Hottest Chili Pepper (2007–2011)
+- **"Bhut"** means "ghost" in Assamese — named for the way the heat sneaks up on you
+- **Caution:** Handle with gloves; avoid contact with eyes and sensitive skin
+- **Cultivation:** Thrives in hot, humid climates; requires long growing season
+
 
 ## 9. Himo Togarashi
 
