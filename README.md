@@ -647,3 +647,86 @@ The purpose of this image classification model is to assist in the accurate and 
 - **Name Origin:** Named "Reaper" for the scythe-like stinger tail and deadly heat level
 - **Caution:** Handle with extreme care — wear gloves, eye protection, and avoid contact with skin and mucous membranes
 - **Cultivation:** Requires warm climate and long growing season; plants are heavy producers when mature
+
+## 11. Trinidad Scorpion
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b87e2c0a-6c94-42c6-9d3b-8c11f38454d7" alt="Trinidad Scorpion Butch T Pepper" width="400">
+</div>
+
+### Description & Specifications
+
+**Scientific Name:** *Capsicum chinense*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Trinidad Scorpion, Trinidad Scorpion Butch T, Moruga Scorpion
+
+---
+
+### Physical Characteristics:
+
+- **Height:** Medium to tall bushy plant, typically 3–4 feet (90–120 cm) tall
+- **Fruit Shape:** Distinctive bulbous pods with a prominent pointed tail (resembling a scorpion's stinger)
+- **Fruit Size:** 1–2 inches (2.5–5 cm) in length, 1–1.5 inches (2.5–3.8 cm) in diameter
+- **Colors:** Green (unripe) → Bright Red, Yellow, or Chocolate Brown (ripe)
+- **Texture:** Rough, bumpy, and deeply wrinkled skin
+- **Flesh:** Thin walls with hollow interior
+- **Seeds:** Small, flat, cream-colored seeds inside
+
+---
+
+### Growing Conditions:
+
+- **Climate:** Warm, tropical to subtropical regions
+- **Soil Type:** Well-drained, fertile soil with pH 6.0–6.8
+- **Water:** Regular watering, moderate moisture levels (avoid waterlogging)
+- **Sunlight:** Full sun (6–8 hours daily)
+- **Temperature:** Optimal growth at 75–90°F (24–32°C)
+- **Maturity:** 90–120 days from planting to harvest
+
+---
+
+### Heat & Flavor Profile:
+
+- **Scoville Heat Units (SHU):** 1,200,000 – 2,000,000+ SHU
+- **Heat Level:** Extreme — among the world's hottest peppers
+- **Flavor:** Fruity, floral, slightly sweet with an intense, building, and long-lasting heat
+
+---
+
+### Nutritional Value:
+
+- High in Vitamin C
+- Rich in capsaicin (active heat compound)
+- Contains Vitamin A, folate, and fiber
+- Low in calories
+
+---
+
+### Uses:
+
+- **Culinary:** Used extremely sparingly in hot sauces, chili powders, spice blends, and extreme food challenges
+- **Competitive:** Popular in pepper-eating contests and heat challenges
+- **Medicinal:** Capsaicin extracted for topical pain relief treatments
+
+---
+
+### Health Benefits:
+
+- Boosts metabolism
+- Anti-inflammatory properties
+- Pain relief (capsaicin-based topical treatments)
+- Supports cardiovascular health
+- Promotes endorphin release
+
+---
+
+### Special Notes:
+
+- **Origin:** Trinidad and Tobago — developed by Butch Taylor and Neil Smith
+- **Record Holder:** Guinness World Record — World's Hottest Chili Pepper (2011–2013), surpassed by the Carolina Reaper
+- **Name Origin:** Named "Scorpion" for the pointed tail that resembles a scorpion's stinger
+- **Variants:** Includes Trinidad Scorpion Butch T, Moruga Scorpion, and Trinidad Scorpion Moruga Blend
+- **Caution:** Handle with extreme care — wear gloves, eye protection, and avoid contact with skin and mucous membranes
+- **Cultivation:** Thrives in hot, humid climates; requires long growing season; plants are heavy producers when mature
