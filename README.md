@@ -1141,3 +1141,85 @@ The purpose of this image classification model is to assist in the accurate and 
 - **Imitation Wasabi:** Most "wasabi" outside Japan is actually horseradish dyed green with added mustard
 - **Grating Method:** Traditionally grated on a sharkskin grater (oroshigane) to release maximum flavor and heat
 - **Freshness:** True wasabi loses its pungency within 15–20 minutes after grating; best consumed immediately
+
+## 17. Peter Pepper
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2d55b8a8-90fa-4d8d-b520-ed32ad2822c0" alt="Peter Pepper" width="400">
+</div>
+
+### Description & Specifications
+
+**Scientific Name:** *Capsicum annuum*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Peter Pepper, Penis Pepper, Chilli Willy, Phallic Pepper
+
+---
+
+### Physical Characteristics:
+
+- **Height:** Medium bushy plant, typically 2–3 feet (60–90 cm) tall
+- **Fruit Shape:** Distinctive elongated, curved pods with a pronounced bulbous end and tapered tip
+- **Fruit Size:** 2–4 inches (5–10 cm) in length, 0.75–1.5 inches (2–3.8 cm) in diameter
+- **Colors:** Green (unripe) → Bright Red (ripe)
+- **Texture:** Smooth, glossy, slightly wrinkled exterior
+- **Flesh:** Medium-thick walls with a narrow interior cavity
+- **Seeds:** Small, flat, cream-colored seeds inside
+
+---
+
+### Growing Conditions:
+
+- **Climate:** Warm, temperate to subtropical regions
+- **Soil Type:** Well-drained, fertile soil with pH 6.0–6.8
+- **Water:** Regular watering, moderate moisture levels
+- **Sunlight:** Full sun (6–8 hours daily)
+- **Temperature:** Optimal growth at 70–85°F (21–29°C)
+- **Maturity:** 75–90 days from planting to harvest
+
+---
+
+### Heat & Flavor Profile:
+
+- **Scoville Heat Units (SHU):** 5,000 – 30,000 SHU
+- **Heat Level:** Medium
+- **Flavor:** Fruity, slightly sweet, with a mild peppery taste and a slow-building, lingering heat
+
+---
+
+### Nutritional Value:
+
+- High in Vitamin C and Vitamin A
+- Rich in antioxidants and phytonutrients
+- Contains fiber, potassium, and folate
+- Low in calories
+
+---
+
+### Uses:
+
+- **Culinary:** Used in salsas, hot sauces, pickling, stir-fries, and as a decorative garnish
+- **Ornamental:** Extremely popular as a novelty garden plant due to its distinctive shape
+- **Dried:** Dried and used in spice blends or as a decorative element
+
+---
+
+### Health Benefits:
+
+- Supports immune system
+- Anti-inflammatory properties
+- Promotes eye health
+- Supports heart health
+- Aids in digestion
+
+---
+
+### Special Notes:
+
+- **Origin:** United States — believed to have been developed in the southern U.S., possibly Texas or Louisiana
+- **Name Origin:** Named for its unmistakable phallic shape; also known as "Chilli Willy" and "Penis Pepper"
+- **Novelty Appeal:** One of the most famous novelty peppers grown worldwide for its humorous appearance
+- **Cultivation:** Easy to grow; highly productive plants with abundant yields of distinctive pods
+- **Caution:** Handle with care — wear gloves when cutting to avoid skin irritation from seeds and oils
