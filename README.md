@@ -219,3 +219,62 @@ The purpose of this image classification model is to assist in the accurate and 
 - Anti-inflammatory properties
 - Promotes heart health
 - Suitable for sensitive palates (mild heat)
+
+---
+
+### 5. Brazilian Starfish Pepper
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/585cb223-63d2-4057-b240-e7e78fa1ba26" alt="Brazilian Starfish Pepper" width="400">
+</div>
+
+#### Description & Specifications
+
+**Scientific Name:** *Capsicum baccatum* var. *pendulum*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Brazilian Starfish Pepper, Starfish Pepper, Ají Panca
+
+**Physical Characteristics:**
+- **Height:** Bushy plant, typically 2-3 feet (60-90 cm) tall
+- **Fruit Shape:** Unique star-shaped or bumpy pentagon-shaped pod
+- **Fruit Size:** 1.5-2 inches (4-5 cm) in diameter
+- **Colors:** Green (unripe), Bright Red or Orange (fully ripe)
+- **Texture:** Distinctive ribbed and bumpy surface with pointed ridges
+- **Shape:** Resembles a starfish with 5-8 distinct lobes/ridges
+- **Heat Level:** Moderate heat (12,000-30,000 Scoville Heat Units)
+- **Seeds:** Small seeds with moderate capsaicin concentration
+
+**Growing Conditions:**
+- **Climate:** Tropical and subtropical regions, prefers warm temperatures
+- **Soil Type:** Well-drained, fertile soil with pH 6.0-6.8
+- **Water:** Regular watering, good drainage essential
+- **Sunlight:** Full sun (8+ hours daily)
+- **Temperature:** Optimal growth at 75-90°F (24-32°C)
+- **Maturity:** 75-100 days from planting to first harvest
+
+**Nutritional Value:**
+- Good source of Vitamin C
+- Rich in antioxidants and phytonutrients
+- Contains vitamins A and E
+- Moderate capsaicin content
+- Low in calories (approximately 35 calories per 100g)
+- Contains fruity, citrusy flavor compounds
+
+**Uses:**
+- Culinary: Fresh in salsas, sauces, Asian cuisines, garnishing
+- Medicinal: Anti-inflammatory, digestive support
+- Ornamental: Striking appearance makes it decorative in gardens
+- Hot Sauce: Used in specialty hot sauces
+- Traditional Medicine: Used in Brazilian and South American recipes
+
+**Health Benefits:**
+- Boosts immune system with high Vitamin C content
+- Anti-inflammatory and antioxidant properties
+- Supports cardiovascular health
+- Aids digestion
+- May help reduce chronic pain
+- Supports vision health
+- Aids in weight management
+- Unique fruity flavor profile adds culinary versatility
