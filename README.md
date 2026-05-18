@@ -278,3 +278,62 @@ The purpose of this image classification model is to assist in the accurate and 
 - Supports vision health
 - Aids in weight management
 - Unique fruity flavor profile adds culinary versatility
+
+---
+
+### 6. Chiltepin Pepper
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/41aa3e77-ffc0-4bdf-b02f-684d15d7b889" alt="Chiltepin Pepper" width="400">
+</div>
+
+#### Description & Specifications
+
+**Scientific Name:** *Capsicum annuum* var. *glabriusculum*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Chiltepin Pepper, Chile Piquín, Bird Pepper, Chiltepe
+
+**Physical Characteristics:**
+- **Height:** Woody shrub, typically 2-4 feet (60-120 cm) tall
+- **Fruit Shape:** Small, round, berry-like pod
+- **Fruit Size:** 0.5-1 inch (1.3-2.5 cm) in diameter
+- **Colors:** Green (unripe), Bright Red or Orange-Red (fully ripe)
+- **Texture:** Smooth, thin-walled
+- **Shape:** Resembles small berries; smallest cultivated chili pepper
+- **Heat Level:** Extremely hot and spicy (50,000-100,000+ Scoville Heat Units)
+- **Seeds:** Numerous tiny seeds with very high capsaicin concentration
+
+**Growing Conditions:**
+- **Climate:** Tropical and subtropical, native to Mexico and Central America
+- **Soil Type:** Well-drained, sandy to loamy soil with pH 6.0-7.0
+- **Water:** Moderate watering, drought tolerant once established
+- **Sunlight:** Full sun (8+ hours daily)
+- **Temperature:** Optimal growth at 75-95°F (24-35°C)
+- **Maturity:** 120-150 days from planting to first harvest (long season)
+
+**Nutritional Value:**
+- Extremely high in capsaicin (one of the hottest peppers)
+- Rich in Vitamin C and antioxidants
+- Contains vitamins A and E
+- Very low in calories (approximately 40 calories per 100g)
+- Often used in dried form for storage and flavor intensity
+
+**Uses:**
+- Culinary: Traditional Mexican and Central American dishes, hot sauces
+- Medicinal: Pain relief, antimicrobial properties, digestive support
+- Traditional Medicine: Used in folk remedies and herbal preparations
+- Condiment: Dried, powdered, or whole peppers in various dishes
+- Spice: Ground chiltepin for intense heat and flavor
+
+**Health Benefits:**
+- Extremely potent metabolism booster and fat burner
+- Powerful pain relief and anti-inflammatory properties
+- Supports cardiovascular health and blood circulation
+- Strong antimicrobial and antifungal properties
+- Aids in digestion and improves gut health
+- Supports respiratory health
+- May help reduce blood pressure and cholesterol
+- High antioxidant content combats free radicals
+- Traditional use for treating infections and inflammation
