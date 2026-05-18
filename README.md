@@ -565,3 +565,85 @@ The purpose of this image classification model is to assist in the accurate and 
 - Often used in the **green stage** for cooking; when ripened to red, sweetness increases with little flavor change
 - Frequently compared in appearance to Thai chilies, but with **zero to minimal heat**
 - Highly productive plants with heavy yields of decorative, dangling peppers
+
+## 10. Carolina Reaper
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/00945d83-1fd9-48c1-b0c2-18d43344977a" alt="Carolina Reaper" width="400">
+</div>
+
+### Description & Specifications
+
+**Scientific Name:** *Capsicum chinense*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Carolina Reaper, HP22B, Reaper Pepper
+
+---
+
+### Physical Characteristics:
+
+- **Height:** Medium to tall bushy plant, typically 3–5 feet (90–150 cm) tall
+- **Fruit Shape:** Distinctive wrinkled, bumpy pods with a pointed stinger tail
+- **Fruit Size:** 1–3 inches (2.5–7.5 cm) in length, 1–1.5 inches (2.5–3.8 cm) in diameter
+- **Colors:** Green (unripe) → Bright Red (ripe)
+- **Texture:** Extremely rough, deeply pockmarked and wrinkled skin
+- **Flesh:** Thin walls with hollow interior
+- **Seeds:** Small, flat, cream-colored seeds inside
+
+---
+
+### Growing Conditions:
+
+- **Climate:** Warm, tropical to subtropical regions
+- **Soil Type:** Well-drained, fertile soil with pH 6.0–6.8
+- **Water:** Regular watering, moderate moisture levels (avoid waterlogging)
+- **Sunlight:** Full sun (6–8 hours daily)
+- **Temperature:** Optimal growth at 75–90°F (24–32°C)
+- **Maturity:** 90–120 days from planting to harvest
+
+---
+
+### Heat & Flavor Profile:
+
+- **Scoville Heat Units (SHU):** 1,400,000 – 2,200,000+ SHU
+- **Heat Level:** Extreme — currently one of the world's hottest commercially available peppers
+- **Flavor:** Fruity, sweet, slightly smoky with an intense, immediate, and prolonged heat
+
+---
+
+### Nutritional Value:
+
+- High in Vitamin C
+- Rich in capsaicin (active heat compound)
+- Contains Vitamin A, folate, and fiber
+- Low in calories
+
+---
+
+### Uses:
+
+- **Culinary:** Used extremely sparingly in hot sauces, chili powders, spice blends, and extreme food challenges
+- **Competitive:** Widely used in pepper-eating contests and heat challenges
+- **Medicinal:** Capsaicin extracted for topical pain relief treatments
+
+---
+
+### Health Benefits:
+
+- Boosts metabolism
+- Anti-inflammatory properties
+- Pain relief (capsaicin-based topical treatments)
+- Supports cardiovascular health
+- Promotes endorphin release
+
+---
+
+### Special Notes:
+
+- **Origin:** Fort Mill, South Carolina, USA — developed by Ed Currie of PuckerButt Pepper Company
+- **Record Holder:** Guinness World Record — World's Hottest Chili Pepper (2013–present)
+- **Name Origin:** Named "Reaper" for the scythe-like stinger tail and deadly heat level
+- **Caution:** Handle with extreme care — wear gloves, eye protection, and avoid contact with skin and mucous membranes
+- **Cultivation:** Requires warm climate and long growing season; plants are heavy producers when mature
