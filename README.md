@@ -729,3 +729,85 @@ The purpose of this image classification model is to assist in the accurate and 
 - **Variants:** Includes Trinidad Scorpion Butch T, Moruga Scorpion, and Trinidad Scorpion Moruga Blend
 - **Caution:** Handle with extreme care — wear gloves, eye protection, and avoid contact with skin and mucous membranes
 - **Cultivation:** Thrives in hot, humid climates; requires long growing season; plants are heavy producers when mature
+
+## 12. Ancho Pepper
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c3799249-f131-4235-bd09-2e284e3d9135" alt="Ancho Pepper" width="400">
+</div>
+
+### Description & Specifications
+
+**Scientific Name:** *Capsicum annuum*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Ancho Pepper, Ancho Chile, Poblano (fresh form), Chile Ancho
+
+---
+
+### Physical Characteristics:
+
+- **Height:** Medium bushy plant, typically 2–3 feet (60–90 cm) tall
+- **Fruit Shape:** Broad, heart-shaped, slightly flattened pods with a blunt tip
+- **Fruit Size:** 3–6 inches (7.5–15 cm) in length, 2–3 inches (5–7.5 cm) in diameter
+- **Colors:** Dark Green (unripe) → Deep Red or Mahogany Brown (ripe/dried)
+- **Texture:** Smooth, glossy exterior when fresh; wrinkled and leathery when dried
+- **Flesh:** Thick, meaty walls with a broad interior cavity
+- **Seeds:** Small, flat, cream-colored seeds inside
+
+---
+
+### Growing Conditions:
+
+- **Climate:** Warm, temperate to subtropical regions
+- **Soil Type:** Well-drained, fertile soil with pH 6.0–7.0
+- **Water:** Regular watering, moderate moisture levels
+- **Sunlight:** Full sun (6–8 hours daily)
+- **Temperature:** Optimal growth at 70–85°F (21–29°C)
+- **Maturity:** 75–90 days from planting to harvest
+
+---
+
+### Heat & Flavor Profile:
+
+- **Scoville Heat Units (SHU):** 1,000 – 2,000 SHU
+- **Heat Level:** Mild
+- **Flavor:** Sweet, fruity, smoky, with hints of raisin, plum, and earthy undertones; richer and more complex when dried
+
+---
+
+### Nutritional Value:
+
+- High in Vitamin C and Vitamin A
+- Rich in antioxidants and phytonutrients
+- Contains fiber, potassium, and iron
+- Low in calories
+
+---
+
+### Uses:
+
+- **Culinary:** Essential in Mexican cuisine — used in mole sauces, enchilada sauces, salsas, soups, stews, and chili powders
+- **Dried Form:** Dried ancho peppers are rehydrated and blended into sauces or ground into powder
+- **Stuffed:** Fresh poblanos (same pepper, unripe) are commonly stuffed for chiles rellenos
+
+---
+
+### Health Benefits:
+
+- Supports immune system
+- Anti-inflammatory properties
+- Promotes eye health
+- Supports heart health
+- Aids in digestion
+
+---
+
+### Special Notes:
+
+- **Origin:** Mexico — one of the most popular dried chiles in Mexican cooking
+- **Dual Identity:** "Poblano" refers to the fresh green pepper; "Ancho" refers to the dried, ripe red/brown version of the same pepper
+- **Name Meaning:** "Ancho" means "wide" in Spanish, referring to its broad, flat shape
+- **Cultivation:** Highly productive plants; peppers are typically harvested green for fresh use or allowed to ripen and dry for ancho use
+- **Storage:** Dried ancho peppers can be stored for months in a cool, dry place
