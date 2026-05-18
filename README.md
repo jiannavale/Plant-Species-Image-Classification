@@ -57,4 +57,53 @@ The purpose of this image classification model is to assist in the accurate and 
 - Anti-inflammatory properties
 - Promotes eye health
 
-**Jalapeno**
+---
+
+### 2. Jalapeno
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1cc0d90b-5bab-413a-b989-4eee057bfe49" alt="Jalapeno" width="400">
+</div>
+
+#### Description & Specifications
+
+**Scientific Name:** *Capsicum populum*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Jalapeno, Jalapeño Pepper
+
+**Physical Characteristics:**
+- **Height:** Bushy plant, typically 2-4 feet (60-120 cm) tall
+- **Fruit Shape:** Cylindrical, tapered pod
+- **Fruit Size:** 2-3 inches (5-8 cm) in length
+- **Colors:** Green (unripe), Red or Dark Red (fully ripe)
+- **Texture:** Smooth, waxy exterior
+- **Heat Level:** Medium spiciness (2,500-8,000 Scoville Heat Units)
+- **Seeds:** Small, flat seeds with placenta tissue (source of heat)
+
+**Growing Conditions:**
+- **Climate:** Warm, sunny regions with hot summers
+- **Soil Type:** Well-drained, fertile soil with pH 6.0-6.8
+- **Water:** Regular watering, drought tolerant once established
+- **Sunlight:** Full sun (8+ hours daily)
+- **Temperature:** Optimal growth at 75-90°F (24-32°C)
+- **Maturity:** 70-90 days from planting to first harvest
+
+**Nutritional Value:**
+- High in Vitamin C and antioxidants
+- Contains capsaicin (compound that provides spiciness)
+- Rich in vitamins A, B6, and potassium
+- Low in calories (approximately 29 calories per 100g)
+
+**Uses:**
+- Culinary: Salsa, nachos, Mexican cuisine, pickling, smoking
+- Medicinal: Pain relief, metabolism boost, anti-inflammatory
+- Condiment: Hot sauce, dried peppers for seasoning
+
+**Health Benefits:**
+- Boosts metabolism and aids weight loss
+- Anti-inflammatory and pain-relieving properties
+- Supports cardiovascular health
+- Aids digestion
+- May help lower blood sugar levels
