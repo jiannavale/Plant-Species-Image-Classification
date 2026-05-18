@@ -975,3 +975,85 @@ The purpose of this image classification model is to assist in the accurate and 
 - **Dual Identity:** Fresh green form is sometimes called "Chilaca"; dried brown/black form is "Pasilla"
 - **Cultivation:** Highly productive plants; peppers are typically allowed to fully ripen and dry for traditional pasilla use
 - **Storage:** Dried pasilla peppers can be stored for months in a cool, dry place
+
+## 15. Scotch Bonnet
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9a40e4f0-116c-4196-8716-f53fa675ad58" alt="Scotch Bonnet" width="400">
+</div>
+
+### Description & Specifications
+
+**Scientific Name:** *Capsicum chinense*
+
+**Family:** Solanaceae (Nightshade family)
+
+**Common Names:** Scotch Bonnet, Bonney Pepper, Jamaican Hot Pepper, Caribbean Red Pepper
+
+---
+
+### Physical Characteristics:
+
+- **Height:** Medium bushy plant, typically 2–3 feet (60–90 cm) tall
+- **Fruit Shape:** Distinctive flattened, rounded pods resembling a Scottish tam o' shanter hat
+- **Fruit Size:** 1–2.5 inches (2.5–6.5 cm) in length, 1.5–2 inches (3.8–5 cm) in diameter
+- **Colors:** Green (unripe) → Bright Yellow, Orange, Red, or Chocolate Brown (ripe)
+- **Texture:** Smooth to slightly wrinkled, glossy exterior
+- **Flesh:** Medium-thick walls with a broad interior cavity
+- **Seeds:** Small, flat, cream-colored seeds inside
+
+---
+
+### Growing Conditions:
+
+- **Climate:** Warm, tropical to subtropical regions
+- **Soil Type:** Well-drained, fertile soil with pH 6.0–6.8
+- **Water:** Regular watering, moderate moisture levels (avoid waterlogging)
+- **Sunlight:** Full sun (6–8 hours daily)
+- **Temperature:** Optimal growth at 75–90°F (24–32°C)
+- **Maturity:** 90–120 days from planting to harvest
+
+---
+
+### Heat & Flavor Profile:
+
+- **Scoville Heat Units (SHU):** 100,000 – 350,000 SHU
+- **Heat Level:** Very Hot
+- **Flavor:** Fruity, sweet, tropical, with notes of apricot, cherry, and citrus; complex and aromatic
+
+---
+
+### Nutritional Value:
+
+- High in Vitamin C and Vitamin A
+- Rich in capsaicin (active heat compound)
+- Contains fiber, potassium, and folate
+- Low in calories
+
+---
+
+### Uses:
+
+- **Culinary:** Essential in Caribbean cuisine — used in jerk marinades, hot sauces, pepper sauces, curries, soups, and stews
+- **Condiments:** Commonly blended into fruit-based hot sauces and pepper jellies
+- **Pickling:** Often pickled and used as a table condiment
+
+---
+
+### Health Benefits:
+
+- Boosts metabolism
+- Anti-inflammatory properties
+- Pain relief (capsaicin-based topical treatments)
+- Supports cardiovascular health
+- Promotes immune system
+
+---
+
+### Special Notes:
+
+- **Origin:** Caribbean — particularly Jamaica and other West Indian islands
+- **Name Origin:** Named for its resemblance to a Scottish tam o' shanter (Scotch bonnet hat)
+- **Cousin to Habanero:** Closely related to the habanero pepper with similar heat levels but distinct fruity flavor profile
+- **Caution:** Handle with care — wear gloves and avoid contact with eyes and sensitive skin
+- **Cultivation:** Thrives in hot, humid climates; requires long growing season; plants are heavy producers when mature
