@@ -2,9 +2,7 @@
 
 ## A. Project Overview
 
-This project focuses on developing an image classification model for identifying medicinal plants using digital images. The model is trained on a dataset containing images of different medicinal plant species, grouped into 20 classes. By learning visual features such as leaf shape, color, texture, and structure, the model can automatically classify an input image into the correct medicinal plant category.
-
-The purpose of this image classification model is to assist in the accurate and efficient identification of medicinal plants. This system can help students, researchers, and the general public recognize medicinal plants without requiring expert botanical knowledge. It also aims to support applications in education, conservation, traditional medicine documentation, and mobile or web-based plant identification tools.
+This project focuses on developing an image classification model for identifying medicinal plants using digital images. The model is trained on a dataset containing images of different medicinal plant species. The purpose of this image classification model is to assist in the accurate and efficient identification of medicinal plants. This system can help students, researchers, and the general public recognize different plant species through their visual characteristics.
 
 ## B. Plant Species Section
 
@@ -1470,22 +1468,23 @@ The purpose of this image classification model is to assist in the accurate and 
 - **Caution:** Handle with extreme care — wear gloves, eye protection, and avoid contact with skin and mucous membranes
 - **Cultivation:** Requires warm climate and long growing season; plants are heavy producers when mature; seeds can be unstable and may revert to red
 
-C. Model Training Details ● Epochs = 50 i chose 50 because lesser is low accuracy and manier can be overfitting
-● Batch size = 16 because it learns carefully while bigger number makes it faster but can miss details
-● Learning rate 0.001 because it’s a small and controlled step that usually works well for images. too high might make the model unstable while too low make the model barely learns
+---
 
-<img width="1886" height="942" alt="model" src="https://github.com/user-attachments/assets/b785f693-0068-4e68-97c9-12c85d6017b8" />
+## C. Model Training Details
 
-● Number of images per class >=250
+**Training Parameters:**
+- **Epochs:** 50 — chosen because fewer epochs result in low accuracy, while more epochs can cause overfitting
+- **Batch Size:** 16 — allows careful learning; larger batch sizes are faster but may miss important details
+- **Learning Rate:** 0.001 — a small, controlled step size that typically works well for image classification. Too high a rate makes the model unstable, while too low a rate results in minimal learning
 
-D. Model Evaluation
-● Embedded screenshots of:
-○ Confusion matrix
-○ Accuracy per class
-○ Overall model accuracy
-<img width="335" height="760" alt="Screenshot 2026-05-19 161544" src="https://github.com/user-attachments/assets/ca6869d8-8680-40b6-9ff5-4be540c8b194" />
+### Model Architecture Visualization
 
-E. Model Testing ● Embedded 10 testing screenshots from the Preview section
-<img width="288" height="654" alt="696504931_968359092749313_3512012749131690312_n" src="https://github.com/user-attachments/assets/fc136143-1faa-42ce-8b0d-9b95090cceb6" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b785f693-0068-4e68-97c9-12c85d6017b8" alt="Model Architecture Diagram" width="600">
+</div>
 
+### Training Process Overview
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fc136143-1faa-42ce-8b0d-9b95090cceb6" alt="Training Process Visualization" width="500">
+</div>
