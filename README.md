@@ -1501,4 +1501,18 @@ This project focuses on developing an image classification model for identifying
 <img width="303" height="869" alt="3" src="https://github.com/user-attachments/assets/eafe037b-bfda-45c3-9446-8850bb65f9dd" />
 
 **4.**
+
 <img width="301" height="838" alt="4" src="https://github.com/user-attachments/assets/8e28f0a0-e63a-4d79-9d84-c09305b18af1" />
+
+**5**
+
+<img width="296" height="881" alt="5" src="https://github.com/user-attachments/assets/356e4b1b-4fe8-4956-9f3b-3ad4e29b28f1" />
+
+**6**
+
+<img width="303" height="328" alt="6" src="https://github.com/user-attachments/assets/ff436cef-ad8b-4bc7-8063-d596ede2bdba" />
+<img width="294" height="621" alt="66" src="https://github.com/user-attachments/assets/5bcc5526-0f6d-4ff1-b4ff-f72c52c31182" />
+
+
+
+
