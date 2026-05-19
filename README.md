@@ -1469,3 +1469,9 @@ The purpose of this image classification model is to assist in the accurate and 
 - **Color Rarity:** The creamy white color is caused by a lack of anthocyanin pigments; fully ripens to a pale ivory or cream shade
 - **Caution:** Handle with extreme care — wear gloves, eye protection, and avoid contact with skin and mucous membranes
 - **Cultivation:** Requires warm climate and long growing season; plants are heavy producers when mature; seeds can be unstable and may revert to red
+
+C. Model Training Details ● Epochs = 50 i chose 50 because lesser is low accuracy and manier can be overfitting
+● Batch size = 16 because it learns carefully while bigger number makes it faster but can miss details
+● Learning rate 0.001 because it’s a small and controlled step that usually works well for images. too high might make the model unstable while too low make the model barely learns
+
+<img width="1886" height="942" alt="model" src="https://github.com/user-attachments/assets/b785f693-0068-4e68-97c9-12c85d6017b8" />
