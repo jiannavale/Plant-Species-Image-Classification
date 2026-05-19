@@ -1484,7 +1484,17 @@ This project focuses on developing an image classification model for identifying
 </div>
 
 ### Training Process Overview
-
+**1.**
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fc136143-1faa-42ce-8b0d-9b95090cceb6" alt="Training Process Visualization" width="500">
+  <img 
+    src="https://github.com/user-attachments/assets/fc136143-1faa-42ce-8b0d-9b95090cceb6" 
+    alt="Training Process Visualization" 
+    width="300"
+  >
 </div>
+
+**2.**
+<img width="306" height="787" alt="2" src="https://github.com/user-attachments/assets/9c797569-2661-4c03-b5a9-19e04c346b56" />
+
+<img width="303" height="869" alt="3" src="https://github.com/user-attachments/assets/eafe037b-bfda-45c3-9446-8850bb65f9dd" />
+
