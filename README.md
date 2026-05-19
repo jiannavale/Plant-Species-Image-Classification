@@ -1475,3 +1475,17 @@ C. Model Training Details ● Epochs = 50 i chose 50 because lesser is low accur
 ● Learning rate 0.001 because it’s a small and controlled step that usually works well for images. too high might make the model unstable while too low make the model barely learns
 
 <img width="1886" height="942" alt="model" src="https://github.com/user-attachments/assets/b785f693-0068-4e68-97c9-12c85d6017b8" />
+
+● Number of images per class >=250
+
+D. Model Evaluation
+● Embedded screenshots of:
+○ Confusion matrix
+○ Accuracy per class
+○ Overall model accuracy
+<img width="335" height="760" alt="Screenshot 2026-05-19 161544" src="https://github.com/user-attachments/assets/ca6869d8-8680-40b6-9ff5-4be540c8b194" />
+
+E. Model Testing ● Embedded 10 testing screenshots from the Preview section
+<img width="288" height="654" alt="696504931_968359092749313_3512012749131690312_n" src="https://github.com/user-attachments/assets/fc136143-1faa-42ce-8b0d-9b95090cceb6" />
+
+
