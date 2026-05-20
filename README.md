@@ -4,6 +4,8 @@
 
 This project focuses on developing an image classification model for identifying medicinal plants using digital images. The model is trained on a dataset containing images of different medicinal plant species. The purpose of this image classification model is to assist in the accurate and efficient identification of medicinal plants. This system can help students, researchers, and the general public recognize different plant species through their visual characteristics.
 
+ImageDataSet:  https://drive.google.com/drive/folders/1nMHsVom6hsRjq-vWgIXZWQG1AE1r_KFJ
+
 ## B. Plant Species Section
 
 ### 1. Bell Pepper
